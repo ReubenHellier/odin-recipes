@@ -1,0 +1,26 @@
+body {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.text {
+    background-color: #2f97c1;
+}
+
+h1 {
+    color: #1ccad8;
+    background-color: #587291;
+    text-align: center;
+    padding: 10px;
+}
+
+p {
+    color: #15e6cd;
+    background-color: #2f97c1;
+    padding: 10px;
+}
+
+a {
+    color: #15e6cd;
+}
